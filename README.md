@@ -1,3 +1,3 @@
-- Hi, I’m @NatNatNutmeg, also known as Nutmeg
-- My pronouns are she/her and it/its
+- Hi, I’m @NatNatNutmeg, also known as Natalie
+- My pronouns are she/her
 - I’m currently a student in computer science
